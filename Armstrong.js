@@ -13,7 +13,7 @@
          console.log("Armstrong number")
      }
      else{
-         console.log("Not an armstring number")
+         console.log("Not an armstrong number")
       }
   }
-  arm(156);
+  arm(153);
